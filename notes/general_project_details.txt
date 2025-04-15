@@ -1,0 +1,13 @@
+Founder: Richard Duong
+
+-Purpose : To Have a General Life tracker to my life needs which makes life more motivating and engaging. 
+    - Life Needs : 
+        - General Big Picture
+        - Finances
+        - Health system
+        - Dreams - Long Term Goals - Short Term Goals - Main Focus - steps tracker
+        - Daily/Monthly/Yearly Routines
+        - Progress Tracking and More Perspectives for areas of Improvement
+        - Family, Friends , Network, social standings, and other relationship trackers
+        - Career Path tracking.
+- Add React, Reduct. 

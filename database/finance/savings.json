@@ -1,0 +1,11 @@
+{
+    "savings": {
+        "title": "Saved",
+        "description": "All Savings I got",
+        "total_saved": 0,
+        "total_long_term_savings": 0,
+        "total_short_term_savings": 0,
+        "long_term_list": [],
+        "short_term_list": []
+    }
+}

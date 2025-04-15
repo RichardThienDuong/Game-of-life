@@ -1,0 +1,29 @@
+{
+    "spend": {
+        "title": "Spend",
+        "description": "All liquid to my name",
+        "total_liquid": 0,
+        "income_total": 0,
+        "deduction_total": 0,
+        "income_list": [
+            {"title": "AMZ", "monthly-gross-amount": 3000, "monthly-net-amount": 2200},
+            {"title": "", "monthly-gross-amount": 0, "monthly-net-amount": 0}
+        ],
+        "deduction_list": [
+            {"title": "Rent/Water", "monthly-amount": 800},
+            {"title": "Phone/Internet", "monthly-amount": 300},
+            {"title": "Luna", "monthly-amount": 100},
+            {"title": "Apple Cloud", "monthly-amount": 5},
+            {"title": "Renters Ins", "monthly-amount": 20},
+            {"title": "Electricity", "monthly-amount": 130},
+            {"title": "ChatGPT", "monthly-amount": 20},
+            {"title": "Laundry", "monthly-amount": 20},
+            {"title": "Groceries", "monthly-amount": 400},
+            {"title": "", "monthly-amount": 0},
+            {"title": "", "monthly-amount": 0},
+            {"title": "", "monthly-amount": 0},
+            {"title": "", "monthly-amount": 0},
+            {"title": "", "monthly-amount": 0}
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Circle": {
+        "title": "Circle",
+        "description": "Quantity of Quality Network and Circle",
+        "levels": [
+            {"level": 1, "requirement": "GF 5", "points-requirement":500},
+            {"level": 2, "requirement": "10", "points-requirement":1000},
+            {"level": 3, "requirement": "15", "points-requirement":1500},
+            {"level": 4, "requirement": "20", "points-requirement":2000},
+            {"level": 5, "requirement": "25", "points-requirement":2500},
+            {"level": 6, "requirement": "30", "points-requirement":3000},
+            {"level": 7, "requirement": "Wife 40", "points-requirement":3500},
+            {"level": 8, "requirement": "50", "points-requirement":4000},
+            {"level": 9, "requirement": "60", "points-requirement":4500},
+            {"level": 10, "requirement": "80", "points-requirement":5000},
+            {"level": 11, "requirement": "Kids 100", "points-requirement":5500},
+            {"level": 12, "requirement": "150", "points-requirement":6000},
+            {"level": 13, "requirement": "200", "points-requirement":6500},
+            {"level": 14, "requirement": "250", "points-requirement":7000},
+            {"level": 15, "requirement": "300", "points-requirement":7500},
+            {"level": 16, "requirement": "450", "points-requirement":8000},
+            {"level": 17, "requirement": "600", "points-requirement":8500},
+            {"level": 18, "requirement": "800", "points-requirement":9000},
+            {"level": 19, "requirement": "1000", "points-requirement":9500},
+            {"level": 20, "requirement": "1500", "points-requirement":10000},
+            {"level": 21, "requirement": "2000", "points-requirement":10500},
+            {"level": 22, "requirement": "5000", "points-requirement":11000},
+            {"level": 23, "requirement": "10000", "points-requirement":11500}
+        ]
+    }
+}

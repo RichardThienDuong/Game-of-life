@@ -1,0 +1,11 @@
+{
+    "invest": {
+        "title": "Invest",
+        "description": "All investments I got",
+        "total_invest": 0,
+        "passive_investments_total": 0,
+        "active_investments_total": 0,
+        "passive_investments_list": [],
+        "active_ivestments_total": []
+    }
+}

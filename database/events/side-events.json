@@ -1,0 +1,11 @@
+{
+    "side-events": {
+        "title": "Side Event",
+        "description": "Any trips that need saving/waiting for",
+        "list": [
+            {"title": "vietnam", "date": "", "purpose": ""},
+            {"title": "italy", "date": "", "purpose": ""},
+            {"title": "japan", "date": "", "purpose": ""}
+        ]
+    }
+}

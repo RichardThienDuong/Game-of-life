@@ -1,0 +1,31 @@
+{
+    "side_quests": {
+        "title": "Side Quests",
+        "description": "All Side Quests",
+        "side_campaign": [
+            {"title": "Climb Hire", "objectives": [
+                {"title": "Google IT Cert", "points": 0, "status": true},
+                {"title": "Comptia Labs", "points": 0, "status": true},
+                {"title": "Practice Tests", "points": 0, "status": true},
+                {"title": "IDUNOVA", "points": 0, "status": true},
+                {"title": "Exam 1", "points": 0, "status": true},
+                {"title": "Exam 2", "points": 0, "status": true},
+                {"title": "Resume", "points": 0, "status": true},
+                {"title": "Linkedin", "points": 0, "status": true},
+                {"title": "Interview Prep", "points": 0, "status": true}
+            ]},
+            {"title": "Mike Tyson Basics", "objectives": [
+                {"title": "3 Miles 1 Jog", "points": 0, "status": true},
+                {"title": "50 Pushups 1 Set", "points": 0, "status": true},
+                {"title": "100 Situps 1 Set", "points": 0, "status": true},
+                {"title": "100 air squats in 1 set", "points": 0, "status": true},
+                {"title": "20 Pullups in 1 set", "points": 0, "status": true}
+            ]},
+            {"title": "Tai Basics", "objectives": [
+                {"title": "Read 10 9 8 7 Books", "points": 0, "status": true},
+                {"title": "Read 6 5 4 Books", "points": 0, "status": true},
+                {"title": "Read 3 2 1 Books", "points": 0, "status": true}
+            ]}
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "holidays": {
+        "title": "Holiday",
+        "description": "All Holidays I semi care about",
+        "list": [
+            {"title": "New Years", "date": "01-01", "significance": "New Year New Me"},
+            {"title": "Martin Luther Kind Jr. Day", "date": "01-16", "significance": "Man was a Good King"},
+            {"title": "Chinese New Year", "date": "01-29-2025", "significance": "Chinese Heritage"},
+            {"title": "Pancake Day", "date": "02-13", "significance": "Childhood relevance, a change to have breakfast with homies at IHOP"},
+            {"title": "Valentine's Day", "date": "02-14", "significance": "Celerbrating Intimate Relationships is healthy"},
+            {"title": "Pokemon Day", "date": "02-27", "significance": "Love Pokemon"},
+            {"title": "Siblings Day", "date": "03-10", "significance": "Love Siblings"},
+            {"title": "Pet Day", "date": "03-11", "significance": "Love Pets"},
+            {"title": "World Book Day", "date": "04-23", "significance": "Love Learning & Knowledge"},
+            {"title": "Mother's Day", "date": "05-11", "significance": "Love Mothers"},
+            {"title": "Minecraft Day", "date": "05-17", "significance": "Love Minecraft"},
+            {"title": "Cheese Day", "date": "06-04", "significance": "Love Cheese"},
+            {"title": "Father's Day", "date": "06-15", "significance": "Love Fathers"},
+            {"title": "Independance Day", "date": "07-04", "significance": "America's Appreciation"},
+            {"title": "Thrift Shop Day", "date": "08-17", "significance": "Love Good Trades"},
+            {"title": "Pasta Day", "date": "10-17", "significance": "Love Pasta"},
+            {"title": "Halloween", "date": "10-31", "significance": "Love Halloween"},
+            {"title": "Bonfire Day", "date": "11-05", "significance": "There's religious origins but I just love bonfires"},
+            {"title": "Veterans Day", "date": "11-11", "significance": "Show Appreciation"},
+            {"title": "Thanksgiving", "date": "11-28", "significance": "Falls on the Fourth Thursday of November, Showing general Appreciation"},
+            {"title": "Black Friday", "date": "11-29", "significance": "Good Deals"},
+            {"title": "Christmas", "date": "12-25", "significance": "Love Giving"},
+            {"title": "Cinema Day", "date": "12-28", "significance": "The first ever film in Paris by 2 brothers"}
+        ]
+    }
+}

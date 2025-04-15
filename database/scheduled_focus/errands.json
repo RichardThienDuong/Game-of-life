@@ -1,0 +1,30 @@
+{
+    "errands": {
+        "title": "Errands", 
+        "description": "All Errands",
+        "errand_schedule":[
+            {"day_of_the_week": "sunday", "1st": "Brush Luna", "2nd": "Wash Luna", "3rd": "Laundry", "4th": "", "description": ""},
+            {"day_of_the_week": "monday", "1st": "Class", "2nd": "", "3rd": "", "4th": "", "description": ""},
+            {"day_of_the_week": "tuesday", "1st": "Class", "2nd": "", "3rd": "", "4th": "", "description": ""},
+            {"day_of_the_week": "wednesday", "1st": "Shop/Inventory Check", "2nd": "", "3rd": "", "4th": "", "description": ""},
+            {"day_of_the_week": "thursday", "1st": "Class", "2nd": "", "3rd": "", "4th": "", "description": ""},
+            {"day_of_the_week": "friday", "1st": "Meal Prep", "2nd": "Hygiene Day", "3rd": "", "4th": "", "description": ""},
+            {"day_of_the_week": "saturday", "1st": "Vaccum&Mop", "2nd": "Clip Nails", "3rd": "", "4th": "", "description": ""}
+            
+        ],
+        "errand_list": [
+            {"tier": "Important&Urgent", "description": "Could Hold you back weeks to months", "list": [
+                "Health Check", "Dental", "Vision"
+            ]},
+            {"tier": "Important&Non-Urgent", "description": "Could Hold you back days to weeks", "list": [
+                "Luna's Health Check/ Shots"
+            ]},
+            {"tier": "Non-Important&Urgent", "description": "Could Hold you back hours to days", "list": [
+                ""
+            ]},
+            {"tier": "Non-Important&Non-Urgent", "description": "Doesn't Hold you back if at least mins to an hour", "list": [
+                ""
+            ]}
+        ]
+    }
+}

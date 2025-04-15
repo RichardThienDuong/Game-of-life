@@ -1,0 +1,111 @@
+{
+    "leaderboard": {
+        "title": "Leaberboard",
+        "description": "A little competitive chart of personal challengers",
+        "population": 300000000,
+        "chart": [
+            {"rank": "Infant", "sub-title":"Play the Game", "level-required": 0, "challengers": [
+                ""
+            ], "top-percentage": 100},
+            {"rank": "Child", "sub-title":"Beat the Game", "level-required": 30, "challengers": [
+                "Dad"
+            ], "top-percentage": 83.333333},
+            {"rank": "Student I", "sub-title":"Family Best", "level-required": 60, "challengers": [
+                "Ricky", "Jennifer"
+            ], "top-percentage": 50},
+            {"rank": "Student II", "sub-title":"Class/Friends Best", "level-required": 90, "challengers": [
+                "Dom", "Randy", "Adam", "Cole", "Kyle", "Blake", "JD", "Caesar"
+            ], "top-percentage": 16.666667},
+            {"rank": "Student III", "sub-title":"High School's Best", "level-required": 121, "challengers": [
+                "Kevin", "Ryan", "Brody", "Anthony", "Manny"
+            ], "top-percentage": 10.666667},
+            {"rank": "Teenager", "sub-title":"Town's Best", "level-required": 151, "challengers": [
+                "Most Aunts", "Mom", "Chris", "All Viet Cousins"
+            ], "top-percentage": 10},
+            {"rank": "Apprentice I", "sub-title":"Regional's Exp", "level-required": 181, "challengers": [
+                "Cindy"
+            ], "top-percentage": 9.333333},
+            {"rank": "Apprentice II", "sub-title":"Regional's 4-5 Below 50%", "level-required": 212, "challengers": [
+                ""
+            ], "top-percentage": 8.666667},
+            {"rank": "Apprentice III", "sub-title":"Regional's 5-5 Top 50%", "level-required": 242, "challengers": [
+                "Jimmy Wu", "Courtney", "Amanda's Fam"
+            ], "top-percentage": 8},
+            {"rank": "Apprentice IV", "sub-title":"Regional's 6-4 Top 20%", "level-required": 272, "challengers": [
+                ""
+            ], "top-percentage": 7.333333},
+            {"rank": "Lead Apprentice", "sub-title":"Regional's 7-2 Top 50", "level-required": 303, "challengers": [
+                ""
+            ], "top-percentage": 6.666667},
+            {"rank": "Assisting Professional", "sub-title":"Regional's 8-2 Top 16", "level-required": 333, "challengers": [
+                ""
+            ], "top-percentage": 6},
+            {"rank": "Adult", "sub-title":"Regional's 9-1 Top 4", "level-required": 363, "challengers": [
+                ""
+            ], "top-percentage": 5.333333},
+            {"rank": "Professional I ", "sub-title":"Regional's Bes", "level-required": 393, "challengers": [
+                ""
+            ], "top-percentage": 4.666667},
+            {"rank": "Professional II", "sub-title":"National's Exp", "level-required": 424, "challengers": [
+                ""
+            ], "top-percentage": 4},
+            {"rank": "Professional III", "sub-title":"Multi Nationals Contender", "level-required": 454, "challengers": [
+                "Dustin", "Sheldon", "Caroline & John"
+            ], "top-percentage": 3.333333},
+            {"rank": "Professional IV", "sub-title":"National's Top 20%", "level-required": 484, "challengers": [
+                "Kevin Naughton", "Sang", "Foster", "Eric Wu"
+            ], "top-percentage": 2.666667},
+            {"rank": "Skillful Practitioner", "sub-title":"National's top 16", "level-required": 515, "challengers": [
+                ""
+            ], "top-percentage": 2},
+            {"rank": "Assisting Senior", "sub-title":"National's Quarter Finalist", "level-required": 545, "challengers": [
+                ""
+            ], "top-percentage": 1.333333},
+            {"rank": "Independent", "sub-title":"National's Best", "level-required": 575, "challengers": [
+                ""
+            ], "top-percentage": 0.666667},
+            {"rank": "Senior I", "sub-title":"Continental Exp", "level-required": 606, "challengers": [
+                "Prime: Grandpa "
+            ], "top-percentage": 0.4},
+            {"rank": "Senior II", "sub-title":"Multi Continental Contender", "level-required": 636, "challengers": [
+                ""
+            ], "top-percentage": 0.333333},
+            {"rank": "Senior III", "sub-title":"Continental Top 20%", "level-required": 666, "challengers": [
+                ""
+            ], "top-percentage": 0.266667},
+            {"rank": "Specialist", "sub-title":"Continental Top 16", "level-required": 696, "challengers": [
+                "Andrew Huberman", "KneesOverToesGuy"
+            ], "top-percentage": 0.2},
+            {"rank": "Expert", "sub-title":"Continental Quarter Finals", "level-required": 727, "challengers": [
+                ""
+            ], "top-percentage": 0.133333},
+            {"rank": "Scholar of Arts", "sub-title":"Continental Best", "level-required": 757, "challengers": [
+                ""
+            ], "top-percentage": 0.066667},
+            {"rank": "Master", "sub-title":"Worlds Exp", "level-required": 787, "challengers": [
+                "Fireship", "Joe Rogan"
+            ], "top-percentage": 0.033333},
+            {"rank": "Grand Master", "sub-title":"Multi Worlds Contender", "level-required": 818, "challengers": [
+                ""
+            ], "top-percentage": 0.01},
+            {"rank": "Gladiator", "sub-title":"Worlds Top 20%", "level-required": 848, "challengers": [
+                ""
+            ], "top-percentage": 0.003333},
+            {"rank": "Champion", "sub-title":"Worlds Top 16", "level-required": 878, "challengers": [
+                "Tai Lopez", "Alex Hormozi", "Kendrick Lamar", "Arnold Schaw"
+            ], "top-percentage": 0.000333},
+            {"rank": "Overlord", "sub-title":"World Quarter Finalist", "level-required": 909, "challengers": [
+                ""
+            ], "top-percentage": 0.0001},
+            {"rank": "King", "sub-title":"World Champion", "level-required": 939, "challengers": [
+                "Gary Vee", "Prime: Pablo Escobar"
+            ], "top-percentage": 0.00001},
+            {"rank": "Top 5 Kings", "sub-title":"Multi World Champion", "level-required": 969, "challengers": [
+                "Elon Musk", "Jeff Bezos"
+            ], "top-percentage": 0.00000017},
+            {"rank": "The King of Kings", "sub-title":"The Best", "level-required": 1000, "challengers": [
+                "Future Me"
+            ], "top-percentage": 0.0000000033}
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "main_story": {
+        "title": "Main Storyline",
+        "description": "Main events to your life story leading up to the best accomplishment possible",
+        "campaign": [
+            {"level": 1, "title": "Humble Beginnings", "mission": "Break out the Matrix", "objectives": [
+                {"objective": "Have 1K net worth", "points": 0, "status": true},
+                {"objective": "Be 150 & 6 pack", "points": 0, "status": true},
+                {"objective": "Read 10 Books", "points": 0, "status": true},
+                {"objective": "Have Great Friends", "points": 0, "status": true}
+            ]},
+            {"level": 1.5, "title": "Requirements", "objectives": [
+                {"objective": "Tech Job Class", "status": true},
+                {"objective": "Make 50K Annually", "status": true},
+                {"objective": "Have a Car", "status": true},
+                {"objective": "No Debt", "status": true}
+            ]},
+            {"level": 2, "title": "A Hero's Start", "mission": "Get Good Footing", "objectives": [
+                {"objective": "Foundation Startup", "points": 0, "status": true},
+                {"objective": "Have 10K net worth", "points": 0, "status": true},
+                {"objective": "Have 100 Army", "points": 0, "status": true},
+                {"objective": "Have GF", "points": 0, "status": true},
+                {"objective": "Be 180 & 8 Pack", "points": 0, "status": true},
+                {"objective": "100 Books", "points": 0, "status": true}
+            ]},
+            {"level": 2.5, "title": "Requirements", "objectives": [
+                {"objective": "Save 1", "status": true},
+                {"objective": "Make 100K Annually", "status": true},
+                {"objective": "Buy Mom a House", "status": true},
+                {"objective": "", "status": true}
+            ]},
+            {"level": 3, "title": "The Dark Road Ahead", "mission": "the road is laid out, just KEEP GOING!", "objectives": [
+                {"objective": "Save 10", "points": 0, "status": true},
+                {"objective": "Have $100K net worth", "points": 0, "status": true},
+                {"objective": "Have 300 Army", "points": 0, "status": true},
+                {"objective": "Have Wife", "points": 0, "status": true},
+                {"objective": "Top 5% Health", "points": 0, "status": true},
+                {"objective": "Read 1000 Books", "points": 0, "status": true}
+            ]},
+            {"level": 3.5, "title": "Requirements", "objectives": [
+                {"objective": "Make 500K Annually", "status": true},
+                {"objective": "Buy a House", "status": true},
+                {"objective": "", "status": true},
+                {"objective": "", "status": true}
+            ]},
+            {"level": 4, "title": "March for the Next Generation", "mission": "This was never about you", "objectives": [
+                {"objective": "Save 100", "points": 0, "status": true},
+                {"objective": "Have $1 Million net worth", "points": 0, "status": true},
+                {"objective": "Have 1K army", "points": 0, "status": true},
+                {"objective": "Have Kids", "points": 0, "status": true},
+                {"objective": "Adv Health", "points": 0, "status": true},
+                {"objective": "Read 5000 Books", "points": 0, "status": true}
+            ]},
+            {"level": 4.5, "title": "Requirements", "objectives": [
+                {"objective": "", "status": true},
+                {"objective": "", "status": true},
+                {"objective": "", "status": true},
+                {"objective": "", "status": true}
+            ]},
+            {"level": 5, "title": "The Forever Seed", "mission": "Need this is last to ever work", "objectives": [
+                {"objective": "Save 1k", "points": 0, "status": true},
+                {"objective": "Have $10 Million net worth", "points": 0, "status": true},
+                {"objective": "Have 10K army", "points": 0, "status": true},
+                {"objective": "Super Healthy", "points": 0, "status": true}
+            ]},
+            {"level": 6, "title": "", "mission": "", "objectives": [
+                {"objective": "Save 10K", "points": 0, "status": true}
+            ]},
+            {"level": 7, "title": "", "mission": "", "objectives": [
+                {"objective": "Save 100K", "points": 0, "status": true}
+            ]},
+            {"level": 8, "title": "", "mission": "", "objectives": [
+                {"objective": "Save 1 Million", "points": 0, "status": true}
+            ]},
+            {"level": 9, "title": "", "mission": "", "objectives": [
+                {"objective": "Save Millions", "points": 0, "status": true}
+            ]},
+            {"level": 10, "title": "", "mission": "", "objectives": [
+                {"objective": "Save a Country", "points": 0, "status": true}
+            ]},
+            {"level": 11, "title": "", "mission": "", "objectives": [
+                {"objective": "Save Multiple Countries", "points": 0, "status": true}
+            ]},
+            {"level": 12, "title": "", "mission": "", "objectives": [
+                {"objective": "Save the World", "points": 0, "status": true}
+            ]},
+            {"level": 13, "title": "", "mission": "", "objectives": []},
+            {"level": 14, "title": "", "mission": "", "objectives": []},
+            {"level": 15, "title": "", "mission": "", "objectives": []},
+            {"level": 16, "title": "", "mission": "", "objectives": []},
+            {"level": 17, "title": "", "mission": "", "objectives": []},
+            {"level": 18, "title": "", "mission": "", "objectives": []},
+            {"level": 19, "title": "", "mission": "", "objectives": []},
+            {"level": 20, "title": "", "mission": "", "objectives": []},
+            {"level": 21, "title": "", "mission": "", "objectives": []},
+            {"level": 22, "title": "", "mission": "", "objectives": []},
+            {"level": 23, "title": "", "mission": "", "objectives": []},
+            {"level": 24, "title": "", "mission": "", "objectives": []},
+            {"level": 25, "title": "", "mission": "", "objectives": []}
+        ]
+    }
+}
