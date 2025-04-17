@@ -11,29 +11,39 @@ html, body {
 }
 
 .page {
-    background: #000;
     font-family: "Kode Mono", monospace;
+    position: relative;
     color: #fff;
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    overflow: hidden;
     padding: 0;
     margin: 0;
 }
 
-.focus {
-    display: flex;
-    justify-content: space-around;
-    height: 100%;
-    align-items: center;
+.page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: #000 url(../images/Harlaxton_Manor_bird-view.png) center / cover no-repeat fixed;
+    filter: brightness(40%);
+    z-index: -1;
 }
 
-.focus__container {
+.header {
     display: flex;
-    flex-direction: column;
     gap: 20px;
-    text-align: center;
+
 }
 
-.focus__check-list {
+.header__main {
+
+}
+
+.header__list {
     list-style-type: none;
 }
 
