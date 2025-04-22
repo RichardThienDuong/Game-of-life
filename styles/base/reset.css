@@ -1,0 +1,51 @@
+/* Remove all margin and padding, and set box-sizing to border-box for layout consistency */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Make sure html and body take up full viewport size */
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Base body styles: set background, text color, and default font */
+  body {
+    line-height: 1;
+    background-color: #fff;
+    color: #000;
+    font-family: sans-serif;
+  }
+  
+  /* Remove default bullets and numbering from lists */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Remove underlines from links and inherit text color */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Make all media elements block-level and responsive */
+  img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+  }
+  
+  /* Collapse table borders and spacing */
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  /* Normalize form elements: remove borders and inherit font */
+  button, input, select, textarea {
+    font: inherit;
+    border: none;
+    outline: none;
+    background: none;
+  }

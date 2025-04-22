@@ -1,0 +1,21 @@
+.page {
+    font-family: "Kode Mono", monospace;
+    position: relative;
+    color: #fff;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: #000 url(../../images/Harlaxton_Manor_bird-view.png) center / cover no-repeat fixed;
+    filter: brightness(40%);
+    z-index: -1;
+}

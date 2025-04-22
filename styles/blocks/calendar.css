@@ -1,0 +1,31 @@
+.calendar { 
+    display: flex;
+    gap: 60px;
+}
+
+.calendar__month_week {
+    display: flex;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.calendar__month_day {
+    min-width: 80px;
+}
+
+.calendar__week {
+    min-width: 300px;
+}
+
+.calendar__week_day {
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.calendar__day-time {
+    padding: 30px 0 0 0;
+}
+
+.calendar__now {
+    max-width: 300px;
+}

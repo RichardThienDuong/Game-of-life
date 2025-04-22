@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Game of Life</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>Alfred</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles/index.css">
     <!-- Font importing -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,45 +14,193 @@
 <body>
     <div class="page">
         <div class="header">
-            <div class="header__main">
-                <h1 class="header__first">Get a SWE Job</h1>
-                <h2 class="header__second">Finish Program + Leetcode + 2 Projects > Job Prep</h2>
-                <h3 class="header__third">Finish Sprint 7-16 > extra + All DSA</h3>
-                <h4 class="header__fourth">Finish Sprint 7-9 + All tutorials</h4>
+            <div class="header__section">
+                <img src="./images/gentleman.png" alt="logo" class="header__logo">
+                <div class="header__quote">Need to finish this to get back to program Master Duong!</div>
             </div>
-            <div class="header__sub_">
-                <ul class="header__list">
-                    <li class="header__todo">Chp 8-11 + 4 Leet Done</li>
-                    <li class="header__todo">Task 6 + 3 Leet</li>
-                    <li class="header__todo">Task 5</li>
-                    <li class="header__todo">Task 4 + 2 Leet</li>
-                    <li class="header__todo">Task 3</li>
-                    <li class="header__todo">Task 2 + 1 Leet</li>
-                </ul>
+            <div class="header__section">
+                <img src="./images/pfp_4_25.png" alt="profile picture" class="header__pfp">
+                <div class="header__number">-$15,000</div>
             </div>
-            <div class="header__main">
-                <h1 class="header__first">180 + 8pk</h1>
-                <h2 class="header__second">Good Exercise > Good Diet</h2>
-                <h3 class="header__third">Consistent Routine > Growth = 160 + 6pk</h3>
-                <h4 class="header__fourth">Workout Everyday</h4>
+            <div class="header__section">
+                <div class="header__bar">Income</div>
+                <div class="header__bar">Bills</div>
+                <div class="header__bar">Invest</div>
+                <div class="header__bar">Savings</div>
+                <div class="header__bar">Debt</div>
             </div>
-            <div class="header__sub_">
-                <ul class="header__list">
-                    <li class="header__todo">workout for 30 days straight</li>
-                    <li class="header__todo"> test it and make adjustments</li>
-                    <li class="header__todo">Make a good routine/plan</li>
-                    <li class="header__todo">Solution for all factors</li>
-                    <li class="header__todo">All factors</li>
-                </ul>
+        </div>        
+        <div class="calendar">
+            <div class="calendar__month">
+                <div class="calendar__month__title">April : </div>
+                <div class="calendar__month_week">
+                    <div class="calendar__month_title">Week1 - </div>
+                    <div class="calendar__month_day">1:</div>
+                    <div class="calendar__month_day">2:</div>
+                    <div class="calendar__month_day">3:</div>
+                    <div class="calendar__month_day">4:</div>
+                    <div class="calendar__month_day">5:</div>
+                    <div class="calendar__month_day">6:</div>
+                    <div class="calendar__month_day">7:</div>
+                </div>
+                <div class="calendar__month_week">
+                    <div class="calendar__month_title">Week2 - </div>
+                    <div class="calendar__month_day">8:</div>
+                    <div class="calendar__month_day">9:</div>
+                    <div class="calendar__month_day">10:</div>
+                    <div class="calendar__month_day">11:</div>
+                    <div class="calendar__month_day">12:</div>
+                    <div class="calendar__month_day">13:</div>
+                    <div class="calendar__month_day">14:</div>
+                </div>
+                <div class="calendar__month_week">
+                    <div class="calendar__month_title">Week3 - </div>
+                    <div class="calendar__month_day">15:</div>
+                    <div class="calendar__month_day">16:</div>
+                    <div class="calendar__month_day">17:</div>
+                    <div class="calendar__month_day">18:</div>
+                    <div class="calendar__month_day">19:</div>
+                    <div class="calendar__month_day">20:</div>
+                    <div class="calendar__month_day">21:</div>
+                </div>
+                <div class="calendar__month_week">
+                    <div class="calendar__month_title">Week4 - </div>
+                    <div class="calendar__month_day">22:</div>
+                    <div class="calendar__month_day">23:</div>
+                    <div class="calendar__month_day">24:</div>
+                    <div class="calendar__month_day">25:</div>
+                    <div class="calendar__month_day">26:</div>
+                    <div class="calendar__month_day">27:</div>
+                    <div class="calendar__month_day">28:</div>
+                </div>
+                <div class="calendar__month_week">
+                    <div class="calendar__month_title">Extra - </div>
+                    <div class="calendar__month_day">29:</div>
+                    <div class="calendar__month_day">20:</div>
+                    <div class="calendar__month_day">31:</div>
+                </div>
+            </div>
+            <div class="calendar__week">
+                <div class="calendar__week_title">Week 1</div>
+                <div class="calendar__week_day">1: </div>
+                <div class="calendar__week_day">2: </div>
+                <div class="calendar__week_day">3: </div>
+                <div class="calendar__week_day">4: </div>
+                <div class="calendar__week_day">5: </div>
+                <div class="calendar__week_day">6: </div>
+                <div class="calendar__week_day">7: </div>
+            </div>
+            <div class="calendar__day">
+                <div class="calendar__day_title">Day 2</div>
+                <div class="calendar__day-time">Todo: Finish Main points to Alfred</div>
+                <div class="calendar__day-time">Morning(Wake up): Wake -> Hygiene -> Code</div>
+                <div class="calendar__day-time">Afternoon(After Lunch): Errands -> Type race -> Read</div>
+                <div class="calendar__day-time">Night(Off work): Workout -> Eat -> Clean -> Hygiene -> Journal -> Sleep</div>
             </div>
         </div>
         <div class="main">
-
+            <div class="main__section">
+                <div class="main__box">
+                    <p class="main__title">Wealth</p>
+                    <h2 class="main__year">$70,000/yr + No Debt</h2>
+                    <h3 class="main__quarter">Budget System > Job > No Debt</h3>
+                    <h4 class="main__month">Save as much as possible</h4>
+                    <h5 class="main__week">make budget for fun money</h5>
+                    <h6 class="main__day">track all bills </h6>
+                </div>
+                <div class="main__box">
+                    <p class="main__title">Tech</p>
+                    <h2 class="main__year">SWE Job + 100wpm</h2>
+                    <h3 class="main__quarter">Program + Leetcode + 2 projects > Job Train</h3>
+                    <h4 class="main__month">Sprint 7-16 + extra + All DSA</h4>
+                    <h5 class="main__week">Sprint 7-9 + All tutorials </h5>
+                    <h6 class="main__day">Sprint 7 : Chapter 8-9-10-11</h6>
+                </div>
+                <div class="main__box">
+                    <p class="main__title">Health</p>
+                    <h2 class="main__year">180lbs + 8pack + Best Arm</h2>
+                    <h3 class="main__quarter">Routine + Growth + Diet</h3>
+                    <h4 class="main__month">Don't miss a day</h4>
+                    <h5 class="main__week">Don't miss a day</h5>
+                    <h6 class="main__day">Do it after work</h6>
+                </div>
+                <div class="main__box">
+                    <p class="main__title">Circle</p>
+                    <h2 class="main__year">BF's w/ Randy + Dom && Make Memories</h2>
+                    <h3 class="main__quarter">TBC</h3>
+                    <h4 class="main__month">Schedule everything</h4>
+                    <h5 class="main__week">Make a list </h5>
+                    <h6 class="main__day">figure out what it takes</h6>
+                </div>
+                <div class="main__box">
+                    <p class="main__title">Charity</p>
+                    <h2 class="main__year">Full blog + website</h2>
+                    <h3 class="main__quarter">full website + blueprint</h3>
+                    <h4 class="main__month">blueprint</h4>
+                    <h5 class="main__week">all factors</h5>
+                    <h6 class="main__day">mentalities basics</h6>
+                </div>
+                <div class="main__box">
+                    <p class="main__title">Smart</p>
+                    <h2 class="main__year">read 100 books + brain plasticity + memory</h2>
+                    <h3 class="main__quarter">read 10 books</h3>
+                    <h4 class="main__month">read 2 books</h4>
+                    <h5 class="main__week">read Tony Robbin's book</h5>
+                    <h6 class="main__day">read the first chapter make notes</h6>
+                </div>
+                <div class="main__box">
+                    <p class="main__title">Business</p>
+                    <h2 class="main__year">N/A</h2>
+                    <h3 class="main__quarter">N/A</h3>
+                    <h4 class="main__month">N/A</h4>
+                    <h5 class="main__week">N/A</h5>
+                    <h6 class="main__day">N/A</h6>
+                </div>
+            </div>
+            <div class="main__now">
+                <ul class="main__now_list">
+                    <li class="main__now_title">Alfred's Tracker</li>
+                    <li class="main__now_item">1: What to do / Tiny Steps </li>
+                    <li class="main__now_item">2: Big Picture / Small Picture Routine Sys Journal/Scientific Method</li>
+                    <li class="main__now_item">3: Routine System && Journal / Scientific Method</li>
+                    <li class="main__now_item">4: Calendar = Important Actions: Errands, Etc. / Happy Actions: Events, Holidays, etc.</li>
+                    <li class="main__now_item"></li>
+                </ul>
+                <ul class="main__now_list">
+                    <li class="main__now_title">Website's Main Points</li>
+                    <li class="main__now_item">1. Header = Alfred Quote, Me Networth, Finance</li>
+                    <li class="main__now_item">2. Calendar = 1M 1W 1D -> Non goals : Errands, Events, Holidays, etc.</li>
+                    <li class="main__now_item">3. Progress = 1Y Q1234 1M 1W 1D Now -> goals : wealth health circle tech charity smart business</li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                </ul>
+                <ul class="main__now_list">
+                    <li class="main__now_title"> Website's Skeleton</li>
+                    <li class="main__now_item">1. Header = 3 sections : Alfred , Me , Finance</li>
+                    <li class="main__now_item">2. Calendar = Monthly , Weekly, Day = Routine + todo</li>
+                    <li class="main__now_item">3. Progress = Big Pictures then Month picture then now for all </li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                </ul>
+                <ul class="main__now_list">
+                    <li class="main__now_title"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                </ul>
+                <ul class="main__now_list">
+                    <li class="main__now_title"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                    <li class="main__now_item"></li>
+                </ul>
+            </div>
         </div>
-        <footer class="footer">
-
-        </footer>
     </div>
-    <script src="./js/main.js"></script>
+    <script src="./js/main.js" defer></script>
 </body>
 </html>

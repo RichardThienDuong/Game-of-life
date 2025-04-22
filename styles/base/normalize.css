@@ -1,0 +1,209 @@
+/* normalize.css v8.0.1 | MIT License */
+/* https://necolas.github.io/normalize.css/ */
+
+/* Improve text rendering and font scaling on mobile */
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  /* Remove browser default margin on body */
+  body {
+    margin: 0;
+  }
+  
+  /* Ensure 'main' is recognized as a block element in older browsers */
+  main {
+    display: block;
+  }
+  
+  /* Normalize heading sizes and spacing */
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+  }
+  
+  /* Ensure horizontal rules render correctly */
+  hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+  }
+  
+  /* Preserve monospace font rendering for preformatted text */
+  pre {
+    font-family: monospace, monospace;
+    font-size: 1em;
+  }
+  
+  /* Fix link background in IE */
+  a {
+    background-color: transparent;
+  }
+  
+  /* Improve appearance of abbreviations with titles */
+  abbr[title] {
+    border-bottom: none;
+    text-decoration: underline dotted;
+  }
+  
+  /* Normalize bold and strong tags */
+  b,
+  strong {
+    font-weight: bolder;
+  }
+  
+  /* Normalize appearance of code-related elements */
+  code,
+  kbd,
+  samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+  }
+  
+  /* Normalize appearance of small text */
+  small {
+    font-size: 80%;
+  }
+  
+  /* Adjust baseline alignment for superscripts and subscripts */
+  sub,
+  sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+  sub {
+    bottom: -0.25em;
+  }
+  sup {
+    top: -0.5em;
+  }
+  
+  /* Remove border around images */
+  img {
+    border-style: none;
+  }
+  
+  /* Normalize form elements to inherit font styles */
+  button,
+  input,
+  optgroup,
+  select,
+  textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+  }
+  
+  /* Prevent buttons and inputs from overflowing in some browsers */
+  button,
+  input {
+    overflow: visible;
+  }
+  
+  /* Remove automatic text transformations */
+  button,
+  select {
+    text-transform: none;
+  }
+  
+  /* Improve button consistency across browsers */
+  button,
+  [type="button"],
+  [type="reset"],
+  [type="submit"] {
+    -webkit-appearance: button;
+  }
+  
+  /* Remove inner padding on Firefox buttons */
+  button::-moz-focus-inner,
+  [type="button"]::-moz-focus-inner,
+  [type="reset"]::-moz-focus-inner,
+  [type="submit"]::-moz-focus-inner {
+    border-style: none;
+    padding: 0;
+  }
+  
+  /* Add focus outline for accessibility */
+  button:-moz-focusring,
+  [type="button"]:-moz-focusring,
+  [type="reset"]:-moz-focusring,
+  [type="submit"]:-moz-focusring {
+    outline: 1px dotted ButtonText;
+  }
+  
+  /* Normalize fieldset spacing */
+  fieldset {
+    padding: 0.35em 0.75em 0.625em;
+  }
+  
+  /* Fix legend overflow and spacing */
+  legend {
+    box-sizing: border-box;
+    color: inherit;
+    display: table;
+    max-width: 100%;
+    padding: 0;
+    white-space: normal;
+  }
+  
+  /* Align progress bar correctly */
+  progress {
+    vertical-align: baseline;
+  }
+  
+  /* Prevent textareas from being clipped */
+  textarea {
+    overflow: auto;
+  }
+  
+  /* Ensure consistent checkbox and radio styling */
+  [type="checkbox"],
+  [type="radio"] {
+    box-sizing: border-box;
+    padding: 0;
+  }
+  
+  /* Normalize number input spinner height */
+  [type="number"]::-webkit-inner-spin-button,
+  [type="number"]::-webkit-outer-spin-button {
+    height: auto;
+  }
+  
+  /* Normalize search inputs */
+  [type="search"] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px;
+  }
+  [type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  
+  /* Normalize file upload buttons */
+  ::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    font: inherit;
+  }
+  
+  /* Ensure <details> elements display correctly */
+  details {
+    display: block;
+  }
+  
+  /* Ensure <summary> displays like a list item */
+  summary {
+    display: list-item;
+  }
+  
+  /* Hide <template> contents */
+  template {
+    display: none;
+  }
+  
+  /* Hide elements with the [hidden] attribute */
+  [hidden] {
+    display: none;
+  }
